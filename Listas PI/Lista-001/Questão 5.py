@@ -3,4 +3,4 @@
 palavra=input("Digite uma palavra: ")
 # print(palavra.upper())
 # print(palavra.lower())
-print(f"A palavra informada foi {palavra}, em uppercase: {palavra.upper()} e em Lowercase {palavra.lower()}")
+print(f"A palavra informada foi {palavra}, em Uppercase: {palavra.upper()} e em Lowercase: {palavra.lower()}")
